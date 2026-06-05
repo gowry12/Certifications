@@ -9,3 +9,4 @@ Date: June 2026
 Result: Passed with Merit
 
 Credential ID: 11574458
+ /GowryN-CertifiedNetworkSecurityPractitioner(CNSP).pdf
